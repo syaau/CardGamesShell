@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,5 +51,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Baloo-Regular.ttf</string>
+		<string>Cards.ttf</string>
+		<string>Kalam_bold.ttf</string>
+		<string>Kalam.ttf</string>
+		<string>Volkswagen Serial_bold.otf</string>
+		<string>Volkswagen Serial_extra_bold.otf</string>
+		<string>Volkswagen Serial.otf</string>
+	</array>
 </dict>
 </plist>
